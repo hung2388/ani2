@@ -1,0 +1,19 @@
+# Hệ điều hành & IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Vercel & Node
+.vercel/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# AI / Gemini
+.gemini/
+

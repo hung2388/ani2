@@ -1,0 +1,10 @@
+{
+  "name": "heart-boss-anniversary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Heart Boss — Web kỷ niệm pixel và hybrid nghệ thuật",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
+
